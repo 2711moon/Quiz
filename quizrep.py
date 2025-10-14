@@ -11,7 +11,7 @@ from selenium.common.exceptions import (
 from datetime import datetime
 from openpyxl import Workbook
 
-# -------------- CONFIG -------------- #
+# -------------- CONFIG -----lala--------- #
 QUIZ_URL = "https://training.kisna.com/"
 DEPARTMENT_TO_SELECT = "IT"
 MAX_WAIT = 15
@@ -311,3 +311,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
